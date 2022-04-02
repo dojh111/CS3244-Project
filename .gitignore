@@ -1,0 +1,15 @@
+/TestImages
+/RawImages
+/ProcessedImages
+/ProcessedTestImages
+/Videos
+/temp
+/yolov5
+/labelimg
+/data
+/data2
+/FakeMaterials
+/TrainedYoloModel
+
+# Cannot push models
+/GreenRedClassifier.model
