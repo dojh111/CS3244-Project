@@ -10,6 +10,7 @@
 /data2
 /FakeMaterials
 /TrainedYoloModel
+/prediction_temp/VideoFrames
 
 # Cannot push models
 /GreenRedClassifier.model
