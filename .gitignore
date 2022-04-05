@@ -14,3 +14,4 @@
 
 # Cannot push models
 /GreenRedClassifier.model
+/FakePassModel
